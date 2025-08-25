@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
+from lib.dog import Dog
 
-from dog import Dog
-import ipdb
-
-ipdb.set_trace()
+import ipdb; ipdb.set_trace()
